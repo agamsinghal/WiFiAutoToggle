@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+id ssid_input
+layout activity_main

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.agam.wifitoggle.app-mergeDebugResources-18:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nxf65214\\.gradle\\caches\\8.12\\transforms\\be39bb6b7e898ca4d1e4a1f8c13e6c36\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

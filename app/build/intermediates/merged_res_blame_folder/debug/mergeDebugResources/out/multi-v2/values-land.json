@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.agam.wifitoggle.app-mergeDebugResources-18:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nxf65214\\.gradle\\caches\\8.12\\transforms\\be39bb6b7e898ca4d1e4a1f8c13e6c36\\transformed\\appcompat-1.6.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
